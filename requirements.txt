@@ -5,6 +5,6 @@ ipykernel
 matplotlib
 scikit-learn
 dill
-tensorflow==2.15.0
+tensorflow
 tensorboard
 streamlit
