@@ -4,11 +4,7 @@ seaborn
 ipykernel
 matplotlib
 scikit-learn
-catboost
-xgboost
 dill
-Flask
 tensorflow==2.15.0
 tensorboard
 streamlit
-# -e .
